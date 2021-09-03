@@ -1,7 +1,5 @@
 
-layout: template
-title: "Self-Assessment"
-filename: index.md
+
 
 # GalarianRapidash2345.github.io
 
