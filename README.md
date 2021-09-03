@@ -12,5 +12,5 @@
 ## Purpose
 ### Header 3
 
-[Code Review for this project] (main/CODEREVIEW.md)
+[Code Review for this project] (root/CODEREVIEW.md)
 
