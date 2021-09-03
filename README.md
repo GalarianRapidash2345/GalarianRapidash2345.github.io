@@ -12,5 +12,5 @@
 ## Purpose
 ### Header 3
 
-[Code Review for this project] (root/CODEREVIEW.md)
+This site was built using [GitHub Pages] (https://pages.github.com/)
 
