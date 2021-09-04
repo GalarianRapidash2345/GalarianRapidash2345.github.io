@@ -1,4 +1,8 @@
 
+layout: page
+title: "Self-Assessment"
+permalink: https://GalarianRapidash2345.github.io/index.html
+
 
 
 # GalarianRapidash2345.github.io
