@@ -1,5 +1,5 @@
 
-layout: page
+layout: template
 title: "Self-Assessment"
 permalink: https://GalarianRapidash2345.github.io/index.html
 
