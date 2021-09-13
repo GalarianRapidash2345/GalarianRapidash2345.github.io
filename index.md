@@ -19,7 +19,7 @@ permalink: https://GalarianRapidash2345.github.io/index.html
 ## Purpose
 ### Links
 
-[code review link](CODEREVIEW.md)
+[code review link](https://GalarianRapidash2345.github.io/CODEREVIEW.html)
 
 
 
