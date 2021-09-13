@@ -13,14 +13,17 @@
 ### Links
 
 
-[code review link](CODEREVIEW.md)
+[code review link](https://GalarianRapidash2345.github.io/CODEREVIEW.html)
 
 
 
-[first enhancement link](Enhancement1.md)
+[first enhancement link](https://GalarianRapidash2345.github.io/Enhancement1.html)
 
 
-[second enhancement link](Enhancement2.md)
+[second enhancement link](https://GalarianRapidash2345.github.io/Enhancement2.html)
 
-[third enhancement link](Enhancement3.md)
+[third enhancement link](https://GalarianRapidash2345.github.io/Enhancement3.html)
+
+
+[This site was built using GitHub](https://pages.github.com/)
 
