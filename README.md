@@ -13,6 +13,6 @@
 ### Links
 
 
-code review link:  https://GalarianRapidash2345.github.io/CODEREVIEW.html
+[code review link] (root/CODEREVIEW.md)
 
 
