@@ -23,7 +23,7 @@ permalink: https://GalarianRapidash2345.github.io/index.html
 
 
 
-[first enhancement link](Enhancement1.md)
+[first enhancement link](https://GalarianRapidash2345.github.io/Enhancement1.html)
 
 
 [second enhancement link](Enhancement2.md)
