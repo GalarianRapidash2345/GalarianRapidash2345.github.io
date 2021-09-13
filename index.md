@@ -29,4 +29,6 @@ permalink: https://GalarianRapidash2345.github.io/index.html
 [second enhancement link](Enhancement2.md)
 
 [third enhancement link](Enhancement3.md)
+
+
 [This site was built using GitHub](https://pages.github.com/)
