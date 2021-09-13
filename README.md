@@ -13,6 +13,6 @@
 ### Links
 
 
-[code review link] (root/CODEREVIEW.md)
+[code review link] (CODEREVIEW.md)
 
 
