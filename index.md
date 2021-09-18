@@ -1,7 +1,5 @@
 
-layout: template
-title: "Self-Assessment"
-permalink: https://GalarianRapidash2345.github.io/index.html
+
 
 
 
@@ -19,7 +17,7 @@ permalink: https://GalarianRapidash2345.github.io/index.html
 ## Purpose
 ### Links
 
-[code review link](https://GalarianRapidash2345.github.io/CODEREVIEW.html)
+[code review link](https://galarianrapidash2345.github.io/Code-Review/)
 
 
 
