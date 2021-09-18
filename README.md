@@ -13,7 +13,7 @@
 ### Links
 
 
-[code review link](https://GalarianRapidash2345.github.io/CODEREVIEW.html)
+[code review link](https://galarianrapidash2345.github.io/Code-Review/)
 
 
 
