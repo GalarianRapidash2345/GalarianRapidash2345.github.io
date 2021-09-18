@@ -20,9 +20,9 @@
 [first enhancement](https://galarianrapidash2345.github.io/Enhancement-One/)
 
 
-[second enhancement link](https://galarianrapidash2345.github.io/Enhancement-Two/)
+[second enhancement](https://galarianrapidash2345.github.io/Enhancement-Two/)
 
-[third enhancement link](https://galarianrapidash2345.github.io/Enhancement-Three/)
+[third enhancement](https://galarianrapidash2345.github.io/Enhancement-Three/)
 
 
 
