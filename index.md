@@ -21,7 +21,7 @@
 
 
 
-[first enhancement link](https://GalarianRapidash2345.github.io/Enhancement1.html)
+[first enhancement link](https://galarianrapidash2345.github.io/Enhancement-One/)
 
 
 [second enhancement link](https://GalarianRapidash2345.github.io/Enhancement2.html)
