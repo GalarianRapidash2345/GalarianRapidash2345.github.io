@@ -26,7 +26,7 @@
 
 [second enhancement link](https://galarianrapidash2345.github.io/Enhancement-Two/)
 
-[third enhancement link](https://GalarianRapidash2345.github.io/Enhancement3.html)
+[third enhancement link](https://galarianrapidash2345.github.io/Enhancement-Three/)
 
 
-[This site was built using GitHub](https://pages.github.com/)
+
