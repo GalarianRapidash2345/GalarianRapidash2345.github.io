@@ -3,11 +3,6 @@
 ## Welcome to GitHub Pages
 
 
-### Markdown
-
-
-
-
 # Self-Assessment
 ## 
 ### Links
