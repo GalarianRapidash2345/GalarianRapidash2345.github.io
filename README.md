@@ -4,7 +4,24 @@
 
 
 # Self-Assessment
-## 
+
+
+## Strengths
+
+
+## Team Environment Collaboration
+
+
+## Communicating To Stakeholders
+
+
+## Data Structures And Algorithms
+
+## Software Engineering And Databases
+
+## Security
+
+
 ### Links
 
 
