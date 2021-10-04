@@ -1,8 +1,5 @@
 
 
-
-
-
 # GalarianRapidash2345.github.io
 
 ## Welcome to GitHub Pages
@@ -14,8 +11,25 @@
 
 
 # Self-Assessment
-##
-### Links
+
+## Strengths
+
+
+## Team Environment Collaboration
+
+
+## Communicating To Stakeholders
+
+
+## Data Structures And Algorithms
+
+## Software Engineering And Databases
+
+## Security
+
+
+# Links
+
 
 [code review](https://galarianrapidash2345.github.io/Code-Review/)
 
