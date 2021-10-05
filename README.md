@@ -25,16 +25,16 @@
 # Links
 
 
-![code review](https://galarianrapidash2345.github.io/Code-Review/)
+[code review](https://galarianrapidash2345.github.io/Code-Review/)
 
 
 
-![first enhancement](https://galarianrapidash2345.github.io/Enhancement-One/)
+[first enhancement](https://galarianrapidash2345.github.io/Enhancement-One/)
 
 
-![second enhancement](https://galarianrapidash2345.github.io/Enhancement-Two/)
+[second enhancement](https://galarianrapidash2345.github.io/Enhancement-Two/)
 
-![third enhancement](https://galarianrapidash2345.github.io/Enhancement-Three/)
+[third enhancement](https://galarianrapidash2345.github.io/Enhancement-Three/)
 
 
 
