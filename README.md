@@ -13,7 +13,7 @@ Completing my coursework and developing this ePortfolio assist in showcasing my 
 Throughout the Computer Science program, I had the ability to collaborate with others in team environments. I utilized version control for pushing local projects to remote projects, where I gained feedback from my peers. In addition, I created pull requests to review the work of others. I then worked in groups where we discussed and analyzed data together. The majority of the communication in my program was asynchronous, and our teams saved time on reviewing our work. Experiencing the hands-on practices of collaborating in teams allowed me to familiarize myself with realistic industry situations. The team collaboration skills I am familiar with will solidify my relative soft skills in the Software Engineering industry.
 
 ## Communicating To Stakeholders
-
+The Computer Science program provided me with the skills necessary for communicating to stakeholders. As Software Engineering professionals are required to explain projects, lifecycles, and create updates for different parties, communicating to stakeholders is a crucial skill to familiarize with. Throughout the program, I created business related documentation and security policies that considered stakeholders. In addition, I created plans that detailed stakeholder requirements for a software product. The plans, policies, and documentation I created solidifies my professional soft skills in the Software Engineering industry. 
 
 ## Data Structures And Algorithms
 
