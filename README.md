@@ -27,14 +27,12 @@ The database work within the computer science program prepared me for applying d
 Utilizing my core courses and concentration, I can implement security within my project work. My security mindset consists of addressing potential design flaws in architecture, finding and eradicating security vulnerabilities, defining an approach to ensure all data is explicitly validated, the consideration of future changes to objects and classes, and reflecting on my experiences and best practices in developing a security mindset. I illustrated addressing the potential design flaws in architecture within my analysis of the original artifact design in the code review, the noted flaws in the original artifacts, and creating enhanced design within the artifact pseudocode. I found and eradicated security vulnerabilities within each artifact by using coding standards I learned in CS 405: Secure Coding. I then defined the approach to ensure all data is explicitly validated by deallocating memory and using input validation conditions. I will consider future changes to objects and classes, as the objects and classes of the artifacts can be improved. My experiences and best practices in developing a security mindset consist of safe development processes and following development standards. Initially, I learned how to resolve significant errors for my projects to execute. I then learned how to implement style, use standards, and analyze my projects by using tools such as CppChecker. The skills I gained for implementing security occurred during the entirety of the computer science program, where I accrued these skills for my mindset. Therefore, my security mindset has advanced. 
 
 # Links
+The following links include the code review, the first artifact for software design, the second artifact for algorithms and data structures, and the third artifact for databases. The artifacts fit together and inform the ePortfolio as a whole, as the artifacts illustrate my competency in the three categories. These artifacts then demonstrate the full range of my talents and abilities through showing my understanding of software engineeering principles, advanced algorithm and data structure theory, and database architecture that is crucial for the software engineering industry. In addition, these artifacts combine computer science, software engineering, and soft skills that familiarize me with industry best practices. Thus, it is conclusive that the artifacts are suited for displaying my talents in this ePortfolio.
 
 
 [code review](https://galarianrapidash2345.github.io/Code-Review/)
 
-
-
 [first enhancement](https://galarianrapidash2345.github.io/Enhancement-One/)
-
 
 [second enhancement](https://galarianrapidash2345.github.io/Enhancement-Two/)
 
