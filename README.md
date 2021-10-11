@@ -15,7 +15,7 @@ Throughout the computer science program, I could collaborate with others in team
 ## Communicating To Stakeholders
 The computer science program provided me with the skills necessary for communicating with stakeholders. As software engineering professionals are required to explain projects, lifecycles, and create updates for different parties, communicating to stakeholders is crucial. Throughout the program, I started business-related documentation and security policies that considered stakeholders. In addition, I created plans that detailed stakeholder requirements for a software product. As a result, I began to solidify my soft professional skills in the software engineering industry with methods, procedures, and documentation.
 
-## Data Structures And Algorithms
+## Algorithms And Data Structures
 The data structures and algorithms within the computer science program prepared me for realistic situations regarding stored data to execute. My initial experiences with data structures and algorithms were studying their functionality in IT 145: Foundation in Application Development. The initial experiences were followed by understanding how to document and explain their functionality in IT 365: Operating Environments. I then learned how to apply my understanding to projects in CS 260: Data Structures and Algorithms. Finally, I advanced my understanding through utilizing unit testing for data structures and algorithms in CS 405: Secure Coding. The foundations of data structures and algorithms I mastered assisted me in my enhanced work for this category.
 
 ## Software Engineering And Databases
