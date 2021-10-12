@@ -43,5 +43,5 @@ The following links include the code review, the first artifact for software des
 
 Mahadeo, J., Hazari, Z., & Potvin, G. (2020). Developing a computer identity framework: Understanding computer science and information technology career choice. *ACM Transactions on Computing Education, 20* (1), 1-14. https://doi.org/10.1145/3365571
 
-
+*The industry’s foundation for high performance graphics.* (2021). OpenGL. https://www.opengl.org//
 
